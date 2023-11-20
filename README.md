@@ -1,4 +1,3 @@
-remote_theme: pages-themes/cayman@v0.2.0
 ### Речная часть    **Mnogoznaal**
 ##### _ТЕКСТ ПЕСНИ_
 Снова снегопад, снова мерзнет страх     
